@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="missions_carbon_es">Émissions carbonées</string>
+    <string name="curseur">Curseur</string>
+    <string name="l_nergie_est_notre_avenir_conomisons_l">L\'énergie est notre avenir, économisons-là.</string>
+    <string name="production_eolienne">Consommez normalement ! Énergie verte</string>
+    <string name="production_eolienne_title">Pic de production éolienne</string>
 </resources>
