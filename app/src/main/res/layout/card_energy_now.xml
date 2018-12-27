@@ -18,7 +18,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:contentDescription="@string/l_nergie_est_notre_avenir_conomisons_l"
-        android:src="@drawable/ic_test"
+        android:src="@drawable/ic_coal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/guideline"
         app:layout_constraintHorizontal_bias="0.5"
